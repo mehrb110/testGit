@@ -1,8 +1,1 @@
-<<<<<<< HEAD
- gfdg dgdgشسیشسی شس
-=======
- gfdg dgdg
-XLS  XLS
-شسیشسی شس
->>>>>>> xls
-merge
+local edit 111
