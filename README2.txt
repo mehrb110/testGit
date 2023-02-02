@@ -1,3 +1,3 @@
 # testGit
 test sample git
-MMMMMMM
+BBBBBBBBBBBBBBBB
